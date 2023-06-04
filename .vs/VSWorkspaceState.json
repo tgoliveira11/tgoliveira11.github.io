@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\assets\\img\\posts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\C:\\Users\\tgoli\\Source\\Repos\\tgoliveira11.github.io",
+  "SelectedNode": "\\assets\\img\\posts",
   "PreviewInSolutionExplorer": false
 }
