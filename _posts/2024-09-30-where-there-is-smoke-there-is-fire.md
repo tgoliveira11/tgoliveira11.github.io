@@ -6,7 +6,7 @@ tags: [wildfiresInBrazil, whereTheresSmoke, criticalThinking, nuancesOfLife, cha
 comments: true
 ---
 
-![Architecture vs Design Patterns - An In-depth Examination of Modern Applications](../assets/img/posts/where-there-is-smoke-there-is-fire.jpeg){:class="img-responsive"}
+![Where There's Smoke, There May Be Fire](../assets/img/posts/where-there-is-smoke-there-is-fire.jpg){:class="img-responsive"}
 
 Wildfires in Brazil have been intensifying recently, bringing images of vast areas covered in smoke. It’s almost inevitable to associate this with the popular phrase “where there’s smoke, there’s fire,” often used to suggest that when there are signs of something, there’s usually some truth behind it. But does this expression really capture the complexity of what we see?
 
