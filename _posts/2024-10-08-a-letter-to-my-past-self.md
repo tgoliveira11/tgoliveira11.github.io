@@ -10,11 +10,11 @@ comments: true
 
 Dear me in 2002,
 
-Back in the early nineties, I began my journey into programming, inspired by my father, who was a systems analyst working with large-scale mainframes. I remember picking up a Visual Basic book—a real bible, over 500 pages long, and all in English. At the time, I didn’t even speak the language, but that didn’t stop me from diving in and taking my first steps into the world of coding.
+Back in the early nineties, you began our journey into programming, inspired by your father, who was a systems analyst working with large-scale mainframes. I remember you picking up a Visual Basic book—a real bible, over 500 pages long, and all in English. At the time, you didn’t even speak the language, but that didn’t stop you from diving in and taking your first steps into the world of coding.
 
 Now, you are at another pivotal moment in your life, about to take your first professional steps as a programmer. There may be some uncertainty about which direction to follow, but I'm here to tell you: the choices you're about to make will be the seeds of a career full of challenges, learning, and achievements.
 
-You chose to enter the world of Microsoft technologies, betting on .NET right at the beginning of your journey in Brazil. Java was there too, of course, and even though both continue to be strong after all these years, each has had a particular impact on the industry. But the choice of .NET turned out to be the right one—you caught the wave as it was starting and grew along with the technology. This definitely propelled your career, positioning you in the midst of large projects and the companies that needed exactly what you were learning to offer.
+You chose to enter the world of Microsoft technologies, betting on .NET right at the beginning of it´s journey in Brazil. Java was there too, of course, and even though both continue to be strong after all these years, each has had a particular impact on the industry. But the choice of .NET turned out to be the right one—you caught the wave as it was starting and grew along with the technology. This definitely propelled your career, positioning you in the midst of large projects and the companies that needed exactly what you were learning to offer.
 
 Look back at the number of integrations you've done over the years. It may seem commonplace now, but in 2002 it wasn't as clear that the future of systems would lie in not working alone, but as part of an increasingly interconnected ecosystem. Your skills in creating link points between systems, making collaboration between services appear seamless, will only become more valuable.
 
