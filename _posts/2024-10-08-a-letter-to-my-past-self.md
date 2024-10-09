@@ -10,7 +10,9 @@ comments: true
 
 Dear me in 2002,
 
-You are at a pivotal moment in your life, about to take your first steps as a programmer. There may be some uncertainty now about which direction to follow, but I'm here to tell you: the choices you're about to make will be the seeds of a career full of challenges, learning, and achievements.
+Back in the early nineties, I began my journey into programming, inspired by my father, who was a systems analyst working with large-scale mainframes. I remember picking up a Visual Basic book—a real bible, over 500 pages long, and all in English. At the time, I didn’t even speak the language, but that didn’t stop me from diving in and taking my first steps into the world of coding.
+
+Now, you are at another pivotal moment in your life, about to take your first professional steps as a programmer. There may be some uncertainty about which direction to follow, but I'm here to tell you: the choices you're about to make will be the seeds of a career full of challenges, learning, and achievements.
 
 You chose to enter the world of Microsoft technologies, betting on .NET right at the beginning of your journey in Brazil. Java was there too, of course, and even though both continue to be strong after all these years, each has had a particular impact on the industry. But the choice of .NET turned out to be the right one—you caught the wave as it was starting and grew along with the technology. This definitely propelled your career, positioning you in the midst of large projects and the companies that needed exactly what you were learning to offer.
 
