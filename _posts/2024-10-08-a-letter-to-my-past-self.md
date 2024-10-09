@@ -10,7 +10,7 @@ comments: true
 
 Dear me in 2002,
 
-Back in the early nineties, you began our journey into programming, inspired by your father, who was a systems analyst working with large-scale mainframes. I remember you picking up a Visual Basic book—a real bible, over 500 pages long, and all in English. At the time, you didn’t even speak the language, but that didn’t stop you from diving in and taking your first steps into the world of coding.
+Back in the early nineties, you began your journey into programming, inspired by your father, who was a systems analyst working with large-scale mainframes. I remember you picking up a Visual Basic book—a real bible, over 500 pages long, and all in English. At the time, you didn’t even speak the language, but that didn’t stop you from diving in and taking your first steps into the world of coding.
 
 Now, you are at another pivotal moment in your life, about to take your first professional steps as a programmer. There may be some uncertainty about which direction to follow, but I'm here to tell you: the choices you're about to make will be the seeds of a career full of challenges, learning, and achievements.
 
